@@ -1,2 +1,2 @@
 ## Hi!
-Just testing out html skills
+Just testing out html
